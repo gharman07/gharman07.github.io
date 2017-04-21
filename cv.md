@@ -26,21 +26,19 @@ title: CV
 
 ### Employment
 
-- 2015: Job title, Company
+- 2014: Direct Support Professional
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> In this role I assisted in helping adults with disabilities create and work towards completing goals directed at gaining specific life skills.
 
-- 2012: Job title, Company
+- 2012: Research Assistant II
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2011: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2008: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> In this role I interacted with patients enrolled in various gene therapy trials.  I also write scripts to process and analyze various data sets and image finals. 
+> Testing Modalities
+- Adaptive Optics Imaging
+- Optical Coherence Tomography
+- Octopus 900 Kinetic and Static Perimetry
+- MAIA & MP1 Microperimetry
+- Electroretinogram (FF / MF)
 
 \newpage
 
