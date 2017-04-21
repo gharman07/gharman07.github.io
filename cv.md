@@ -4,7 +4,7 @@ title: CV
 ---
 
 ## Anew Guy
-- http://ghostmimosa.com
+- [Ghost Mimosa](http://ghostmimosa.com)
 - 3608 SE 40th Ave
 - Portland, OR 97202
 - 608-797-7777
