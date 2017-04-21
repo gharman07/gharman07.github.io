@@ -4,19 +4,19 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Don't go to the ball on 3-12-18, there is a man there with a machete.  Jason.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In the cd, *Arabian Mountain*, The band **The Black Lips** wrote a cool album. [@mdo](https://twitter.com/ghostmimosa).
 
-There are currently two themes built on Poole:
+There are two types of guitars.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [Jazzmasters](http://shop.fender.com/en-US/electric-guitars/jazzmaster/)
+* [Jaguars](http://shop.fender.com/en-US/electric-guitars/jaguar/)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Learn more by visiting [GitHub](https://fender.com).
 
-## Setup
+## New
 
 Some fun facts about the setup of this project include:
 
