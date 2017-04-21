@@ -4,26 +4,25 @@ title: CV
 ---
 
 ## Anew Guy
-- http://yourwebsite.com
-- 123 Fake Street
-- Portland, OR 97213
-- 555-555-5555
-- your.email@address.com
+- http://ghostmimosa.com
+- 3608 SE 40th Ave
+- Portland, OR 97202
+- 608-797-7777
+- harmang@ohsu.edu
 
 ### Personal summary
 
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> My research interests include image processing.  Using adaptive optics device (rtx1) to image the photoreceptor layer in the retina.
 
 ### Education
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+- PhD      Eating Chips, OHSU - Portland, OR
+- B.A.     Biochemistry, Winona State University - Winona, MN
 
 ### Technical
 
-- Intermediate: HTML, Python, etc, etc
-- Basic: CSS, Stata, etc, etc
+- Intermediate: MATLAB, Python
+- Basic: HTML, R
 
 ### Employment
 
