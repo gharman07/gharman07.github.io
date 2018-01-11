@@ -1,11 +1,9 @@
 # Personalize your website info here
 title:            Gareth Harman
-tagline:          'MATLAB Image Processing'
-description:      'Aarons Arch Nemesis'
-url:              http://garethharman.github.io
+tagline:          'Image Processing'
+url:              gharman07.github.io
 author:
   name:           'Gareth Harman'
-  url:            https://twitter.com/ghostmimosa
 
 ## You don't need to modify below this line
 paginate:         5
